@@ -1,0 +1,5 @@
+C:\Users\ngocbn.ALLEXCEED\source\repos\hostAPI\hostAPI\bin\Debug\hostAPI.exe
+C:\Users\ngocbn.ALLEXCEED\source\repos\hostAPI\hostAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngocbn.ALLEXCEED\source\repos\hostAPI\hostAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ngocbn.ALLEXCEED\source\repos\hostAPI\hostAPI\bin\Debug\System.Web.Http.dll
+C:\Users\ngocbn.ALLEXCEED\source\repos\hostAPI\hostAPI\bin\Debug\System.Web.Http.SelfHost.dll
